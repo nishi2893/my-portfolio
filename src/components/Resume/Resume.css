@@ -1,0 +1,20 @@
+.Resume-right-col{
+
+    background: white;
+    color: #27221F;
+    padding: 1em;
+}
+
+img{
+    height: 200px;
+}
+
+.Resume-right-col hr{
+    border-top: 3px solid #27221F;
+}
+
+ul p{
+    font-size: 16px;
+    padding: 0;
+    margin: auto;
+}
