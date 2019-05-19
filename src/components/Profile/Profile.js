@@ -24,7 +24,7 @@ class Profile extends Component{
                    <div className="Profile-role">
                        <h1>Software Developer</h1>
                        <hr/>
-                       <p>HTML/CSS | Bootstrap | JavaScript | React | Angular 6 | NodeJS | Express | MongoDB | Advanced Java</p>
+                       <p>HTML/CSS | JQuery | JavaScript | ReactJS | Angular 7 | NodeJS | Express | MongoDB | Advanced Java</p>
                        <div className="social-links">
 
                       { /*LinkedIn*/ }
