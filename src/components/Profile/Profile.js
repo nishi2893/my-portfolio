@@ -15,7 +15,7 @@ class Profile extends Component{
             <div style={style}>
                <Grid className="Profile-grid">
                    <Cell col={12}>
-                   <img style={{height: '200px'}}className="Profile-img"
+                   <img style={{height: '200px'}} className="Profile-img"
                 //    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibX6z4_pQwYrdyrnKwF9q7QmNnl3o5T6MtKVu7h6fejEb03F5"
                    src={img} 
                    
@@ -24,7 +24,7 @@ class Profile extends Component{
                    <div className="Profile-role">
                        <h1>Software Developer</h1>
                        <hr/>
-                       <p>HTML/CSS | JQuery | JavaScript | ReactJS | Angular 7 | NodeJS | Express | MongoDB | Advanced Java</p>
+                       <p>HTML/CSS | JQuery | JavaScript | ReactJS | Angular 7 | NodeJS | Express | MongoDB | Java</p>
                        <div className="social-links">
 
                       { /*LinkedIn*/ }

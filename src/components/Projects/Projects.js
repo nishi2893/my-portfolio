@@ -40,11 +40,12 @@ class Projects extends Component{
                    My Portfolio
                    </CardTitle>
                    <CardText>
-                   This is my portfolio created by using React 16 features and React-MDL which consists of React components for Material Design Lite. <b>My portfolio will soon be hosted on AWS S3.</b>
+                   This is my portfolio created by using React 16 features and 
+                   React-MDL which consists of React components for Material Design Lite.
                    </CardText>
                    <CardActions border>
                       <a href="https://github.com/nishi2893/my-portfolio" target="_blank" rel="noopener noreferrer"><Button colored>GitHub</Button></a>
-                      <a href="https://nishigandha-shendkar.firebaseapp.com"><Button colored>Firebase Live Demo</Button></a>
+                      <a href="https://nishigandha-shendkar.firebaseapp.com"><Button colored>Live Demo</Button></a>
                      </CardActions>
                      <CardMenu style={{color: '#fff'}}>
                         <IconButton name="share" />
